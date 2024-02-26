@@ -1,6 +1,7 @@
 # project-4
 Project 4
-# ![Here's the Dataset.](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)
+# Dataset:
+* https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge
 # Overview
 * In this project we use the healthcare database to determine how each of the factors relate to each other, such as age, pre-existing conditions, charge, costs, county, number of people per age group, count, and gender. We then use machine learning to train an algorithm to predict the total charge.
 # Process
