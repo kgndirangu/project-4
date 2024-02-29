@@ -12,4 +12,13 @@ Project 4
 *  The Top 3 pre-existing conditions by charge are Respiratorytory Distress Syndrome, Bacterial Infections, and leukemias, since any respiratory illness can be fatal and trigger an emergency visit to the hospital.
 *  Erie County had the most amount of charges for "Liveborn".
 # Machine Learning
-* We then see what model best predicts our total charge results.
+* We then see what model best predicts our total charge results. Here is our process:
+* Set x (All other columns) and y (Total Charges)
+* Split into testing and training 
+* Scale the data
+* Define models
+* Neural networks (tensorflow)
+* Decision tree  (sklearn)
+* Linear regression (sklearn)
+* Report R2
+
