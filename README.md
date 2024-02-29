@@ -21,4 +21,15 @@ Project 4
 * Decision tree  (sklearn)
 * Linear regression (sklearn)
 * Report R2
+# Machine Learning Methods & Models:
+* Use ‘Index’ to represent categories
+* Hidden layer 1 - 80 neurons
+* Hidden layer 2 - 30 neurons
+* Optimizer - sgd
+* Epochs - 50
+# R2 Results
+* **Neural Network:** 0.05245191
+* **Decision Tree:** -0.2569800678770544
+* **Linear Regression:** 0.3436209143524821
+
 
