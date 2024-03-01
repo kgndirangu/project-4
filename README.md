@@ -28,8 +28,8 @@ Project 4
 * Optimizer - sgd
 * Epochs - 50
 # R2 Results
-* **Neural Network:** 0.05245191
-* **Decision Tree:** -0.2569800678770544
-* **Linear Regression:** 0.3436209143524821
+* **Neural Network:** 0.020110726
+* **Decision Tree:** -0.09255875126363233
+* **Linear Regression:** 0.5280448979133505
 
 
